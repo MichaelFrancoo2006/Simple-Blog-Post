@@ -21,7 +21,7 @@ This project is a basic HTML-only blog post layout. It includes a title, an imag
 
 | Technology | Description                        |
 |------------|------------------------------------|
-| HTML       | Used to structure the blog post.  |
+| HTML5       | Used to structure the blog post.  |
 
 ## How to View
 
